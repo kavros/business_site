@@ -370,7 +370,7 @@ ul li {
 	$offers
 ========================================================================== */
 .offers{
-		
+	background-color: #253139;
 }
 
 
@@ -648,7 +648,7 @@ padding:15px 30px 15px 30px;
 	padding: 20px 0;
 }
 .footer .footer-col {
-	margin-bottom: 80px;
+	margin-bottom: 10px;
 }
 .footer h5 {
 	color: #fff;
